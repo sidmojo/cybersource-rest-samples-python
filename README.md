@@ -8,7 +8,7 @@ This repository contains working code samples which demonstrate python integrati
 
 The samples are all completely independent and self-contained. You can analyze them to get an understanding of how a particular method works, or you can use the snippets as a starting point for your own project.  The samples are organized into categories and common usage examples, similar to the [CyberSource API Reference](http://developer.cybersource.com/api/reference).
 
-You can run each sample directly from the command line.
+You can run each sample code directly from the command line.
 
 ## Requirements
 * Python 3.4 or later
